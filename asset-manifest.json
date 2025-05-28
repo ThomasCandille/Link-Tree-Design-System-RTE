@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/link-tree-ds/static/css/main.e907bda4.css",
-    "main.js": "/link-tree-ds/static/js/main.c49dfdb1.js",
-    "static/js/453.c61c0207.chunk.js": "/link-tree-ds/static/js/453.c61c0207.chunk.js",
-    "static/media/github.jpg": "/link-tree-ds/static/media/github.fdd2f1ff2130db6a4f50.jpg",
-    "static/media/storybook-logo.jpeg": "/link-tree-ds/static/media/storybook-logo.bd7d7b0e7f9bfc3cdc91.jpeg",
-    "static/media/figma.jpg": "/link-tree-ds/static/media/figma.0deaf85acbe12ab535b2.jpg",
-    "index.html": "/link-tree-ds/index.html",
-    "main.e907bda4.css.map": "/link-tree-ds/static/css/main.e907bda4.css.map",
-    "main.c49dfdb1.js.map": "/link-tree-ds/static/js/main.c49dfdb1.js.map",
-    "453.c61c0207.chunk.js.map": "/link-tree-ds/static/js/453.c61c0207.chunk.js.map"
+    "main.css": "/Link-Tree-Design-System-RTE/static/css/main.e907bda4.css",
+    "main.js": "/Link-Tree-Design-System-RTE/static/js/main.b3ca92df.js",
+    "static/js/453.c61c0207.chunk.js": "/Link-Tree-Design-System-RTE/static/js/453.c61c0207.chunk.js",
+    "static/media/github.jpg": "/Link-Tree-Design-System-RTE/static/media/github.fdd2f1ff2130db6a4f50.jpg",
+    "static/media/storybook-logo.jpeg": "/Link-Tree-Design-System-RTE/static/media/storybook-logo.bd7d7b0e7f9bfc3cdc91.jpeg",
+    "static/media/figma.jpg": "/Link-Tree-Design-System-RTE/static/media/figma.0deaf85acbe12ab535b2.jpg",
+    "index.html": "/Link-Tree-Design-System-RTE/index.html",
+    "main.e907bda4.css.map": "/Link-Tree-Design-System-RTE/static/css/main.e907bda4.css.map",
+    "main.b3ca92df.js.map": "/Link-Tree-Design-System-RTE/static/js/main.b3ca92df.js.map",
+    "453.c61c0207.chunk.js.map": "/Link-Tree-Design-System-RTE/static/js/453.c61c0207.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e907bda4.css",
-    "static/js/main.c49dfdb1.js"
+    "static/js/main.b3ca92df.js"
   ]
 }
